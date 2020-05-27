@@ -1,4 +1,9 @@
 # firebase-chat
+    Written in JavaScript
+    Vue.js framework
+    Styled with CSS
+    Firebase Server and Database
+
 
 ## Project setup
 ```
